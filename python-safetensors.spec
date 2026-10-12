@@ -10,7 +10,7 @@
 
 Name:		python-safetensors
 Version:	0.8.0
-Release:	1
+Release:	2
 Summary:	Simple, safe way to store and distribute tensors
 License:	Apache-2.0
 Group:		Development/Python
